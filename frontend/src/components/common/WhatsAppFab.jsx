@@ -1,0 +1,20 @@
+import React from 'react';
+
+const WhatsAppFab = () => {
+  return (
+    <a
+      className="wa-fab"
+      href="https://wa.me/919633311322"
+      target="_blank"
+      rel="noopener noreferrer"
+      data-testid="whatsapp-fab"
+    >
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2a10 10 0 00-8.6 15.1L2 22l5-1.3A10 10 0 1012 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.4-.7-2.9-1.2-4.7-4.1-4.9-4.3-.1-.2-1.1-1.5-1.1-2.9s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .6l-.4.6-.5.5c-.2.2-.3.4-.1.7.2.3.9 1.5 2 2.4 1.4 1.2 2.5 1.6 2.9 1.7.3.2.5.1.7-.1l1-1.2c.2-.3.4-.2.7-.1l2 .9c.3.2.5.3.6.4 0 .1 0 .7-.4 1.2z" />
+      </svg>
+      <span>WhatsApp</span>
+    </a>
+  );
+};
+
+export default WhatsAppFab;

@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Orchid Builders — Engineering Your Dreams | Architecture, Construction & Interiors, Kerala</title>
+<meta name="description" content="Premium architecture, construction, interior design and project management company in Kerala. Luxury villas, modern homes and traditional Kerala homes, delivered turnkey.">
+<link rel="icon" type="image/png" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;family=Inter:wght@400;500;600&amp;family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&amp;display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com/"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { cream:'#F7F5F1', ink:'#111111', body:'#222222', muted:'#666666', accent:'#8B5E3C', gold:'#B89F72', line:'#E5E5E5', leaf:'#2D6A4F' },
+  fontFamily: { head:['Manrope','sans-serif'], body:['Inter','sans-serif'], serif:['Playfair Display','serif'] }
+}}};
+</script>
+<link rel="stylesheet" href="assets/css/style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"GeneralContractor","name":"Orchid Builders",
+"slogan":"Engineering Your Dreams","telephone":["+91 90720 97374","+91 93880 06262"],"email":["orchiddesignerspkd@gmail.com","orchidbuilderspgt@gmail.com"],
+"address":{"@type":"PostalAddress","streetAddress":"Coimbatore Rd, behind Bismi Hypermart, near Stadium Bus Stand, Mankavu","addressLocality":"Palakkad","addressRegion":"Kerala","postalCode":"678001","addressCountry":"IN"},
+"areaServed":"Palakkad, Kerala",
+"description":"Orchid Builders provides construction, architectural design, interior design, turnkey projects and property consultancy in Palakkad and across Kerala."}
+</script>
+<script defer src="static/js/bundle.js"></script><script>
+if(window.self!==window.top){
+  var s=document.createElement("script");s.src="visual-edit-overlay.js";document.head.appendChild(s);
+  window.tailwind=window.tailwind||{};tailwind.config={corePlugins:{preflight:false}};var t=document.createElement("script");t.src="https://cdn.tailwindcss.com/";document.head.appendChild(t);
+}
+</script>
+</head>
+<body data-page="home">
+<div id="preloader" data-testid="preloader">
+  <div class="pre-top"></div><div class="pre-bot"></div>
+  <div id="pl-inner">
+    <img id="pl-logo" src="assets/img/logo.png" alt="Orchid Builders">
+    <div id="pl-track"><span id="pl-line"></span></div>
+    <div class="pl-tag">Engineering Your Dreams</div>
+  </div>
+  <div id="pl-num">0</div>
+</div>
+<div id="wipe"><span class="w1"></span><span class="w2"></span></div>
+<header id="site-header">
+  <div class="scroll-progress"><span id="scroll-progress-bar"></span></div>
+  <div class="wrap hdr-in">
+    <a href="index.html" class="logo-pill" data-testid="nav-logo"><img src="assets/img/logo.png" alt="Orchid Builders — Engineering Your Dreams"></a>
+    <nav class="nav-desktop" aria-label="Primary"><a href="index.html" class="nav-link active" data-testid="nav-home">Home</a><a href="about.html" class="nav-link" data-testid="nav-about">About</a><div class="nav-item has-mega"><a href="services.html" class="nav-link" data-testid="nav-services">Services <svg class="car" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></a><div class="mega"><div class="mega-in">
+  <div>
+    <span class="label">What We Do</span>
+    <div class="mega-title">Ten disciplines.<br>One accountable team.</div>
+    <p class="muted" style="font-size:14.5px;margin:0 0 26px">From the first sketch to the final handover, every discipline sits under one roof at Orchid Builders.</p>
+    <a href="services.html" class="u-line" data-testid="mega-all-services">All Services <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+  </div>
+  <div class="mega-grid"><a href="service-architecture-design.html" class="mega-link" data-testid="mega-architecture-design"><span class="no">01</span><span class="nm">Architecture Design</span></a><a href="service-construction.html" class="mega-link" data-testid="mega-construction"><span class="no">02</span><span class="nm">Construction</span></a><a href="service-interior-design.html" class="mega-link" data-testid="mega-interior-design"><span class="no">03</span><span class="nm">Interior Design</span></a><a href="service-structural-design.html" class="mega-link" data-testid="mega-structural-design"><span class="no">04</span><span class="nm">Structural Design</span></a><a href="service-landscaping.html" class="mega-link" data-testid="mega-landscaping"><span class="no">05</span><span class="nm">Landscaping</span></a><a href="service-project-management.html" class="mega-link" data-testid="mega-project-management"><span class="no">06</span><span class="nm">Project Management</span></a><a href="service-property-consultancy.html" class="mega-link" data-testid="mega-property-consultancy"><span class="no">07</span><span class="nm">Property Consultancy</span></a><a href="service-vasthu-consultancy.html" class="mega-link" data-testid="mega-vasthu-consultancy"><span class="no">08</span><span class="nm">Vasthu Consultancy</span></a><a href="service-renovation-remodeling.html" class="mega-link" data-testid="mega-renovation-remodeling"><span class="no">09</span><span class="nm">Renovation & Remodeling</span></a><a href="service-estimation-cost-evaluation.html" class="mega-link" data-testid="mega-estimation-cost-evaluation"><span class="no">10</span><span class="nm">Estimation & Cost Evaluation</span></a></div>
+  <a href="projects.html" class="mega-feat">
+    <img src="assets/img/projects/Project1.jpg" alt="Featured project">
+    <div class="mf-t"><b>The Courtyard Villa</b><span>Luxury Villa — Palakkad</span></div>
+  </a>
+</div></div></div><a href="projects.html" class="nav-link" data-testid="nav-projects">Projects</a><a href="gallery.html" class="nav-link" data-testid="nav-gallery">Gallery</a><a href="blog.html" class="nav-link" data-testid="nav-blog">Blog</a><a href="contact.html" class="nav-link" data-testid="nav-contact">Contact</a></nav>
+    <div class="hdr-right">
+      <a href="tel:+919072097374" class="hdr-phone" data-testid="hdr-phone">+91 90720 97374</a>
+      <a href="contact.html" class="btn btn-dark btn-sm" data-testid="hdr-consultation-btn">Book Consultation</a>
+    </div>
+    <button id="menu-toggle" data-testid="mobile-menu-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<div id="mobile-menu">
+  <a href="index.html" class="mm-link" data-testid="mm-home">Home</a><a href="about.html" class="mm-link" data-testid="mm-about">About</a><div class="mm-acc" style="position:relative"><a href="services.html" class="mm-link">Services</a><button class="mm-acc-btn" data-testid="mm-services-toggle" aria-label="Expand services"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5v14M5 12h14"/></svg></button><div class="mm-sub"><a href="service-architecture-design.html">Architecture Design</a><a href="service-construction.html">Construction</a><a href="service-interior-design.html">Interior Design</a><a href="service-structural-design.html">Structural Design</a><a href="service-landscaping.html">Landscaping</a><a href="service-project-management.html">Project Management</a><a href="service-property-consultancy.html">Property Consultancy</a><a href="service-vasthu-consultancy.html">Vasthu Consultancy</a><a href="service-renovation-remodeling.html">Renovation & Remodeling</a><a href="service-estimation-cost-evaluation.html">Estimation & Cost Evaluation</a><a href="services.html"><b>All Services</b></a></div></div><a href="projects.html" class="mm-link" data-testid="mm-projects">Projects</a><a href="gallery.html" class="mm-link" data-testid="mm-gallery">Gallery</a><a href="blog.html" class="mm-link" data-testid="mm-blog">Blog</a><a href="contact.html" class="mm-link" data-testid="mm-contact">Contact</a>
+  <div class="mm-foot">
+    <a href="tel:+919072097374">+91 90720 97374</a><br><a href="tel:+919388006262">+91 93880 06262</a><br>
+    <a href="mailto:orchiddesignerspkd@gmail.com">orchiddesignerspkd@gmail.com</a><br><a href="mailto:orchidbuilderspgt@gmail.com">orchidbuilderspgt@gmail.com</a><br><br>
+    Coimbatore Rd, behind Bismi Hypermart, near Stadium Bus Stand, Mankavu, Palakkad, Kerala 678001
+  </div>
+</div>
+<main id="main">
+
+<!-- HERO -->
+<section class="hero" data-testid="hero">
+  <div class="hero-media" aria-label="Orchid Builders project images" role="region">
+    <div class="hero-slide is-active"><img data-parallax src="assets/img/office/1%20(4).jpeg" alt="Contemporary commercial interior designed by Orchid Builders"></div>
+    <div class="hero-slide"><img data-parallax src="assets/img/office/1%20(9).jpeg" alt="Contemporary commercial interior designed by Orchid Builders"></div>
+    <div class="hero-slide"><img data-parallax src="assets/img/office/1%20(6).jpeg" alt="Bright office interior designed by Orchid Builders"></div>
+    <div class="hero-slide"><img data-parallax src="assets/img/office/1%20(13).jpeg" alt="Interior and landscape detail by Orchid Builders"></div>
+  </div>
+  <div class="hero-shade"></div>
+  <div class="wrap hero-in">
+    <div class="hero-kicker hero-fade">Premium Architecture &amp; Construction — Kerala</div>
+    <h1 class="display" data-testid="hero-headline">
+      <span class="rl"><span class="rl-in">Engineering</span></span>
+      <span class="rl"><span class="rl-in">Your <em class="serif-it gold" style="text-transform:none">Dreams</em></span></span>
+    </h1>
+    <div class="hero-sub hero-fade">
+      <span>Architecture</span><i>/</i><span>Construction</span><i>/</i><span>Interior Design</span><i>/</i><span>Project Management</span><i>/</i><span>Renovation</span>
+    </div>
+    <div class="hero-cta hero-fade">
+      <a href="projects.html" class="btn btn-line" data-testid="hero-view-projects-btn">View Projects <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <a href="contact.html" class="btn btn-gold" data-testid="hero-book-consultation-btn">Book Consultation</a>
+    </div>
+  </div>
+  <div class="hero-side">PALAKKAD, KERALA</div>
+  <div class="hero-carousel" aria-label="Banner controls">
+    <button class="hero-carousel-btn" id="hero-prev" type="button" aria-label="Previous banner image"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+    <div class="hero-dots" role="tablist" aria-label="Choose banner image"><button class="hero-dot is-active" type="button" role="tab" aria-label="Show banner image 1" aria-selected="true"></button><button class="hero-dot" type="button" role="tab" aria-label="Show banner image 2" aria-selected="false"></button><button class="hero-dot" type="button" role="tab" aria-label="Show banner image 3" aria-selected="false"></button></div>
+    <button class="hero-carousel-btn" id="hero-next" type="button" aria-label="Next banner image"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+  </div>
+  <div class="scroll-ind hero-fade"><small>Scroll</small><span class="si-line"></span></div>
+</section>
+
+<div class="marquee" aria-hidden="true"><div class="mq-track"><span class="mq-item">Luxury Villas<span class="dot"></span></span><span class="mq-item">Modern Homes<span class="dot"></span></span><span class="mq-item">Traditional Kerala Homes<span class="dot"></span></span><span class="mq-item">Signature Interiors<span class="dot"></span></span><span class="mq-item">Commercial Spaces<span class="dot"></span></span><span class="mq-item">Turnkey Projects<span class="dot"></span></span><span class="mq-item"><em>Luxury Villas</em><span class="dot"></span></span><span class="mq-item"><em>Modern Homes</em><span class="dot"></span></span><span class="mq-item"><em>Traditional Kerala Homes</em><span class="dot"></span></span><span class="mq-item"><em>Signature Interiors</em><span class="dot"></span></span><span class="mq-item"><em>Commercial Spaces</em><span class="dot"></span></span><span class="mq-item"><em>Turnkey Projects</em><span class="dot"></span></span></div></div>
+
+<!-- WHO WE ARE -->
+<section class="sec" id="who-we-are">
+  <div class="wrap">
+    <div class="wwa-grid">
+      <div>
+        <span class="label" data-reveal>01 — Who We Are</span>
+        <h2 class="h2" style="margin:24px 0" data-reveal>Spaces Built for the Way You <em class="serif-it gold">Live and Work</em></h2>
+        <p class="leads" data-reveal>From new homes and commercial spaces to carefully planned renovations, we manage every project with clarity, quality and attention to detail.</p>
+        <p class="muted" style="margin-top:18px" data-reveal>Our work brings together thoughtful planning, durable construction and interiors that feel natural to use every day, whether the space is personal, professional or being renewed.</p>
+        
+        <div style="margin-top:38px" data-reveal><a href="about.html" class="u-line" data-testid="wwa-discover-btn">Discover Our Story <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div>
+      </div>
+      <div class="frame" data-reveal>
+        <div class="clip-reveal"><img src="assets/img/office/1%20(5).jpeg" alt="Modern office interior by Orchid Builders"></div>
+        <div class="exp-badge"><b>14+</b><span>Years of Craft</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONSTRUCTION FOCUS -->
+<section class="sec focus-sec" id="construction-focus">
+  <div class="wrap container-fluid">
+
+    <!-- Section Header -->
+    <div class="sec-head focus-head row align-items-end g-4">
+
+      <div class="col-lg-7 col-md-7">
+        <span class="label" data-reveal>
+          02 — Our Construction Focus
+        </span>
+
+        <h2 class="h2" data-reveal>
+          Built Around<br>
+          <em class="serif-it gold">Your Everyday</em>
+        </h2>
+      </div>
+
+      <div class="col-lg-5 col-md-5">
+        <p class="lead focus-intro mb-0" data-reveal>
+          Three ways we shape better spaces: considered homes, productive
+          workplaces and renovations that make existing places work
+          beautifully again.
+        </p>
+      </div>
+
+    </div>
+
+
+    <!-- Focus Cards -->
+    <div class="focus-grid row g-4">
+
+      <!-- Residential -->
+      <div class="col-lg-4">
+        <a href="service-construction.html"
+           class="focus-card d-block h-100"
+           data-reveal>
+
+          <div class="focus-card-img">
+            <img
+              src="assets/img/about/Residential.png"
+              alt="Residential construction and home design by Orchid Builders"
+              class="img-fluid w-100"
+            >
+          </div>
+
+          <div class="focus-card-copy">
+
+            <span class="focus-no">01</span>
+
+            <h3>Residential Construction</h3>
+
+            <p>
+              Thoughtfully planned homes built around your family,
+              lifestyle and long-term needs.
+            </p>
+
+            <span class="focus-link">
+              Explore residential construction
+
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.8"
+                aria-hidden="true"
+              >
+                <path d="M5 12h14M13 6l6 6-6 6"/>
+              </svg>
+            </span>
+
+          </div>
+        </a>
+      </div>
+          <!-- Commercial -->
+          <div class="col-lg-4">
+            <a href="service-construction.html"
+               class="focus-card h-100 d-block"
+               data-reveal
+               data-delay="0.08">
+
+              <div class="focus-card-img">
+                <img
+                  src="assets/img/about/Commercial.png"
+                  alt="Commercial construction and office interiors by Orchid Builders"
+                  class="img-fluid w-100"
+                >
+              </div>
+
+              <div class="focus-card-copy">
+
+                <span class="focus-no">02</span>
+
+                <h3>Commercial Construction</h3>
+
+                <p>
+                  Professional commercial environments designed for
+                  efficient work and a strong brand presence.
+                </p>
+
+                <span class="focus-link">
+                  Explore commercial construction
+
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.8"
+                    aria-hidden="true"
+                  >
+                    <path d="M5 12h14M13 6l6 6-6 6"/>
+                  </svg>
+                </span>
+
+              </div>
+
+            </a>
+          </div>
+
+
+          <!-- Renovation -->
+          <div class="col-lg-4">
+            <a href="service-renovation-remodeling.html"
+               class="focus-card h-100 d-block"
+               data-reveal
+               data-delay="0.16">
+
+              <div class="focus-card-img">
+                <img
+                  src="assets/img/about/Renovation.png"
+                  alt="Renovation and remodeling project by Orchid Builders"
+                  class="img-fluid w-100"
+                >
+              </div>
+
+              <div class="focus-card-copy">
+
+                <span class="focus-no">03</span>
+
+                <h3>Renovation</h3>
+
+                <p>
+                  Practical, beautiful upgrades that give existing
+                  spaces a fresh and purposeful new life.
+                </p>
+
+                <span class="focus-link">
+                  Explore renovation services
+
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.8"
+                    aria-hidden="true"
+                  >
+                    <path d="M5 12h14M13 6l6 6-6 6"/>
+                  </svg>
+                </span>
+
+              </div>
+
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section class="sec sec-cream" id="services">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><span class="label" data-reveal>03 — Our Services</span><h2 class="h2" data-reveal>Expertise Across<br><em class="serif-it gold">Every Discipline</em></h2></div>
+      <a href="services.html" class="u-line" data-reveal data-testid="home-all-services">All Services <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+  <div class="wrap svc-list" id="services-list"><a href="service-architecture-design.html" class="svc-row" data-testid="svc-row-architecture-design">
+  <span class="no">01</span>
+  <span class="nm">Architecture Design</span>
+  <span class="ds">Concept to detailed drawings — homes designed around the way you live.</span>
+  <span class="ar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+</a><a href="service-construction.html" class="svc-row" data-testid="svc-row-construction">
+  <span class="no">02</span>
+  <span class="nm">Construction</span>
+  <span class="ds">Turnkey residential and commercial construction with stage-wise transparency.</span>
+  <span class="ar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+</a><a href="service-interior-design.html" class="svc-row" data-testid="svc-row-interior-design">
+  <span class="no">03</span>
+  <span class="nm">Interior Design</span>
+  <span class="ds">Bespoke interiors — from space planning to the last cushion.</span>
+  <span class="ar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+</a>
+<a href="service-project-management.html" class="svc-row" data-testid="svc-row-project-management">
+  <span class="no">04</span>
+  <span class="nm">Project Management</span>
+  <span class="ds">Professional PMC for owners who want control without daily site stress.</span>
+  <span class="ar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+</a>
+<a href="service-renovation-remodeling.html" class="svc-row" data-testid="svc-row-renovation-remodeling">
+  <span class="no">05</span>
+  <span class="nm">Renovation & Remodeling</span>
+  <span class="ds">Transforming existing homes — structurally safe, beautifully renewed.</span>
+  <span class="ar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+</a>
+</div>
+</section>
+
+<!-- FEATURED PROJECTS -->
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><span class="label" data-reveal>04 — Featured Projects</span><h2 class="h2" data-reveal>Selected <em class="serif-it gold">Works</em></h2></div>
+      <a href="projects.html" class="u-line" data-reveal data-testid="home-all-projects">View All Projects <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+    <div style="display:grid;gap:28px">
+      <a href="project-details.html" class="proj spot wide" data-testid="proj-the-courtyard-villa">
+  <div class="pimg clip-reveal"><img src="assets/img/projects/Project1.jpg" alt="The Courtyard Villa"></div>
+  <div class="pmeta">
+    <div><span class="pc">Luxury Villa</span><span class="pn">The Courtyard Villa</span><span class="pl">Palakkad, Kerala</span></div>
+    <span class="pview"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+  </div>
+</a>
+      <div class="grid-2"><a href="project-details.html" class="proj spot" data-testid="proj-horizon-house">
+  <div class="pimg clip-reveal"><img src="assets/img/projects/Project5.jpg" alt="Horizon House"></div>
+  <div class="pmeta">
+    <div><span class="pc">Modern Home</span><span class="pn">Horizon House</span><span class="pl">Palakkad, Kerala</span></div>
+    <span class="pview"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+  </div>
+</a><a href="project-details.html" class="proj spot" data-testid="proj-nalukettu-retreat">
+  <div class="pimg clip-reveal"><img src="assets/img/gallery/1%20(23).jpeg" alt="Nalukettu Retreat"></div>
+  <div class="pmeta">
+    <div><span class="pc">Traditional Kerala Home</span><span class="pn">Nalukettu Retreat</span><span class="pl">Palakkad, Kerala</span></div>
+    <span class="pview"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+  </div>
+</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- WHY ORCHID -->
+<section class="sec sec-cream">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><span class="label" data-reveal>05 — Why Orchid</span><h2 class="h2" data-reveal>Why Families Choose<br><em class="serif-it gold">Orchid Builders</em></h2></div>
+    </div>
+    <div class="feat-grid"><div class="feat" data-reveal data-delay="0.00">
+  <span class="fn">01</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 19l7-7-4-4-7 7v4h4zM15 6l4 4M4 20h16"/></svg></span>
+  <h4>Custom Design Solutions</h4><p>Every project is designed from a blank page — your plot, your lifestyle, your budget. Nothing from a catalogue.</p>
+</div><div class="feat" data-reveal data-delay="0.08">
+  <span class="fn">02</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="9" cy="8" r="3.4"/><path d="M2.5 20c.8-3.6 3.4-5.4 6.5-5.4s5.7 1.8 6.5 5.4M16 4.6a3.4 3.4 0 010 6.8M17.5 14.8c2 .6 3.5 2.2 4 5.2"/></svg></span>
+  <h4>Experienced Team</h4><p>Architects, structural engineers and site leads with 12+ years and 250+ delivered projects across Kerala.</p>
+</div><div class="feat" data-reveal data-delay="0.16">
+  <span class="fn">03</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2.5l8 3.5v6c0 5-3.4 8.3-8 9.5-4.6-1.2-8-4.5-8-9.5V6l8-3.5z"/><path d="M8.5 12l2.4 2.4 4.6-4.8"/></svg></span>
+  <h4>Quality Construction</h4><p>Branded materials, engineered supervision and stage-wise quality audits — documented and shared with you.</p>
+</div><div class="feat" data-reveal data-delay="0.00">
+  <span class="fn">04</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M21 12a8 8 0 01-8 8c-1.4 0-2.8-.3-4-1l-5 1.3L5.3 16A8 8 0 1121 12z"/><path d="M8.5 11h7M8.5 14h4.5"/></svg></span>
+  <h4>Transparent Communication</h4><p>Weekly photo reports, itemised bills and one project manager who always answers your call.</p>
+</div><div class="feat" data-reveal data-delay="0.08">
+  <span class="fn">05</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l3 2M9 2.5h6"/></svg></span>
+  <h4>Timely Delivery</h4><p>Master schedules with stage gates and penalty-backed timelines written into your agreement.</p>
+</div><div class="feat" data-reveal data-delay="0.16">
+  <span class="fn">06</span>
+  <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2.5l9 5-9 5-9-5 9-5zM3 12.5l9 5 9-5M3 17.5l9 5 9-5"/></svg></span>
+  <h4>End-to-End Management</h4><p>Design, approvals, construction, interiors and landscaping — one accountable team from sketch to key.</p>
+</div></div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="sec">
+  <div class="wrap proc-grid">
+    <div class="proc-sticky">
+      <span class="label" data-reveal>06 — Our Process</span>
+      <h2 class="h2" style="margin:24px 0" data-reveal>From First Sketch<br>To <em class="serif-it gold">Final Key</em></h2>
+      <p class="lead" data-reveal>Eight clear stages. One accountable team. You always know what happens next, what it costs, and when it will be done.</p>
+      <div style="margin-top:36px" data-reveal><a href="contact.html" class="btn btn-line-ink" data-testid="process-start-btn">Start With a Consultation <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div>
+    </div>
+    <ol class="process-list">
+      <li class="process-line" aria-hidden="true"><span class="process-line-fill"></span></li>
+      <li data-reveal data-delay="0.00">
+  <span class="pno">01</span><h4>Consultation</h4><p>We listen first — family, lifestyle, plot and budget — before drawing a single line.</p>
+</li><li data-reveal data-delay="0.06">
+  <span class="pno">02</span><h4>Planning</h4><p>Site study, feasibility, vasthu preferences and a clear project roadmap.</p>
+</li><li data-reveal data-delay="0.12">
+  <span class="pno">03</span><h4>Design</h4><p>Concept to detailed architecture, refined with you room by room.</p>
+</li><li data-reveal data-delay="0.18">
+  <span class="pno">04</span><h4>Visualization</h4><p>Photorealistic 3D views so you approve your home before it exists.</p>
+</li><li data-reveal data-delay="0.24">
+  <span class="pno">05</span><h4>Cost Evaluation</h4><p>Itemised, quantity-based estimates with stage-wise cash flow.</p>
+</li><li data-reveal data-delay="0.30">
+  <span class="pno">06</span><h4>Construction</h4><p>Engineered execution with branded materials and weekly reporting.</p>
+</li><li data-reveal data-delay="0.36">
+  <span class="pno">07</span><h4>Quality Assurance</h4><p>Stage-wise audits, material tests and a documented snag process.</p>
+</li><li data-reveal data-delay="0.42">
+  <span class="pno">08</span><h4>Handover</h4><p>Final walkthrough, documentation, warranties — and your keys.</p>
+</li>
+    </ol>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="sec sec-ink">
+  <div class="wrap">
+    <div style="margin-bottom:70px"><span class="label" data-reveal>07 — Milestones</span><h2 class="h2" style="margin-top:22px" data-reveal>Numbers That<br>Speak of <em class="serif-it gold">Trust</em></h2></div>
+    <div class="stats-grid">
+      <div class="stat" data-reveal><span class="num"><span data-count="250" data-suffix="">0</span><em>+</em></span><span class="cap">Projects Completed</span></div>
+      <div class="stat" data-reveal data-delay="0.1"><span class="num"><span data-count="14" data-suffix="">0</span><em>+</em></span><span class="cap">Years Experience</span></div>
+      <div class="stat" data-reveal data-delay="0.2"><span class="num"><span data-count="98" data-suffix="">0</span><em>%</em></span><span class="cap">Client Satisfaction</span></div>
+      <div class="stat" data-reveal data-delay="0.3"><span class="num"><span data-count="100" data-suffix="">0</span><em>+</em></span><span class="cap">Luxury Homes Delivered</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="sec">
+  <div class="wrap">
+    <div class="tst-wrap">
+      <span class="tst-mark" data-reveal>&ldquo;</span>
+      <div class="tst-stage" data-reveal><div class="tst-slide">
+  <p class="tst-quote">"Orchid Builders did an outstanding job renovating our villa. Their professionalism, workmanship, and attention to detail truly set them apart."</p>
+  <div class="tst-who"><b>Rahul Kumar</b><span>Palakkad</span></div>
+</div><div class="tst-slide">
+  <p class="tst-quote">"They understood my vision and delivered the project with impressive precision and efficiency."</p>
+  <div class="tst-who"><b>Maya Thomas</b><span>Palakkad</span></div>
+</div><div class="tst-slide">
+  <p class="tst-quote">"Orchid Builders transformed our office space into a modern and functional environment that matched our requirements."</p>
+  <div class="tst-who"><b>Arjun Nair</b><span>Thrissur</span></div>
+</div><div class="tst-slide">
+  <p class="tst-quote">"Outstanding work by Orchid Builders! They renovated my house in Palakkad and delivered exactly what we wanted."</p>
+  <div class="tst-who"><b>Priya Menon</b><span>Palakkad</span></div>
+</div></div>
+      <div class="tst-nav" data-reveal>
+        <button id="tst-prev" class="tst-btn" data-testid="testimonial-prev" aria-label="Previous testimonial"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+        <button id="tst-next" class="tst-btn" data-testid="testimonial-next" aria-label="Next testimonial"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="sec sec-ink cta-sec">
+  <div class="cta-ghost">Orchid</div>
+  <div class="wrap" style="position:relative;z-index:2">
+    <div class="cta-rule" data-reveal></div>
+    <span class="label" data-reveal>Begin Today</span>
+    <h2 class="h2" style="margin-top:26px" data-reveal>Ready To Build<br>Your <em class="serif-it gold">Dream Home?</em></h2>
+    <p class="lead" style="color:rgba(255,255,255,.65);margin-top:24px" data-reveal>Tell us about your plot, your budget and the way your family lives. We will take care of everything else — design, approvals, construction and handover.</p>
+    <div class="cta-btns" data-reveal>
+      <a href="tel:+919633311322" class="btn btn-gold" data-testid="cta-call-btn">Call Now</a>
+      <a href="https://wa.me/919633311322" target="_blank" rel="noopener" class="btn btn-line" data-testid="cta-whatsapp-btn">WhatsApp</a>
+      <a href="contact.html" class="btn btn-line" data-testid="cta-consultation-btn">Book Consultation <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="wrap">
+    <div class="ft-top">
+      <div>
+        <a href="index.html" class="logo-pill" data-testid="footer-logo"><img src="assets/img/logo.png" alt="Orchid Builders"></a>
+        <p class="ft-tag">"Engineering Your Dreams"</p>
+        <p style="max-width:34ch;font-size:14.5px;margin-top:18px">A premium architecture, construction and interior design studio crafting homes and spaces across Kerala since 2012.</p>
+        <div class="ft-social">
+          <a  target="_blank" href="https://www.facebook.com/share/1HQi8CT5XN/?mibextid=wwXIfr" aria-label="Facebook" data-testid="social-facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M13.5 21v-7h2.4l.4-3h-2.8V9.1c0-.9.3-1.5 1.6-1.5h1.3V4.9c-.6-.1-1.4-.2-2.3-.2-2.3 0-3.8 1.4-3.8 3.9V11H8v3h2.3v7h3.2z"/></svg></a>
+          <a  target="_blank" href="https://www.instagram.com/orchid_builders_?stkn=cGE2MWVkc25lcHJ1" aria-label="Instagram" data-testid="social-instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".8" fill="currentColor"/></svg></a>
+          <a href="#" aria-label="LinkedIn" data-testid="social-linkedin"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.4 8.9H3.6V21h2.8V8.9zM5 3.6a1.7 1.7 0 100 3.4 1.7 1.7 0 000-3.4zM21 13.4c0-3.2-1.7-4.7-4-4.7-1.8 0-2.7 1-3.1 1.7V8.9H11V21h2.9v-6.5c0-1.4.6-2.3 1.9-2.3 1.2 0 1.9.8 1.9 2.3V21H21v-7.6z"/></svg></a>
+          <a href="#" aria-label="YouTube" data-testid="social-youtube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.2a2.8 2.8 0 00-2-2C17.9 4.8 12 4.8 12 4.8s-5.9 0-7.6.4a2.8 2.8 0 00-2 2A29 29 0 002 12a29 29 0 00.4 4.8 2.8 2.8 0 002 2c1.7.4 7.6.4 7.6.4s5.9 0 7.6-.4a2.8 2.8 0 002-2A29 29 0 0022 12a29 29 0 00-.4-4.8zM10 15.2V8.8L15.5 12 10 15.2z"/></svg></a>
+        </div>
+      </div>
+      <div>
+        <h5 class="ft-h">Quick Links</h5>
+        <ul class="ft-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5 class="ft-h">Services</h5>
+        <ul class="ft-links"><li><a href="service-architecture-design.html">Architecture Design</a></li><li><a href="service-construction.html">Construction</a></li><li><a href="service-interior-design.html">Interior Design</a></li><li><a href="service-structural-design.html">Structural Design</a></li><li><a href="service-landscaping.html">Landscaping</a></li><li><a href="service-project-management.html">Project Management</a></li><li><a href="services.html"><b>View All Services</b></a></li></ul>
+      </div>
+      <div>
+        <h5 class="ft-h">Contact</h5>
+        <ul class="ft-contact" style="list-style:none;margin:0;padding:0">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 16.9v3a2 2 0 01-2.2 2A19.8 19.8 0 012 4.2 2 2 0 014 2h3a2 2 0 012 1.7c.1 1 .4 2 .7 2.9a2 2 0 01-.5 2.1L8 9.9a16 16 0 006.1 6.1l1.2-1.2a2 2 0 012.1-.5c.9.3 1.9.6 2.9.7A2 2 0 0122 16.9z"/></svg><a href="tel:+919072097374">+91 90720 97374</a></li><li><a href="tel:+919388006262">+91 93880 06262</a></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2.5" y="5" width="19" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><a href="mailto:orchiddesignerspkd@gmail.com">orchiddesignerspkd@gmail.com</a></li><li><a href="mailto:orchidbuilderspgt@gmail.com">orchidbuilderspgt@gmail.com</a></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 21s-7-5.3-7-11a7 7 0 1114 0c0 5.7-7 11-7 11z"/><circle cx="12" cy="10" r="2.6"/></svg><span>Coimbatore Rd, behind Bismi Hypermart, near Stadium Bus Stand, Mankavu, Palakkad, Kerala 678001</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="ft-bottom">
+      <span>© <span id="year">2026</span> Orchid Builders. All rights reserved.</span>
+      <span>Engineering Your Dreams — Architecture · Construction · Interiors</span>
+    </div>
+  </div>
+</footer>
+<button id="to-top" data-testid="back-to-top" aria-label="Back to top"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
+<a class="wa-fab" href="https://wa.me/919633311322" target="_blank" rel="noopener" data-testid="whatsapp-fab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 00-8.6 15.1L2 22l5-1.3A10 10 0 1012 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.4-.7-2.9-1.2-4.7-4.1-4.9-4.3-.1-.2-1.1-1.5-1.1-2.9s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .6l-.4.6-.5.5c-.2.2-.3.4-.1.7.2.3.9 1.5 2 2.4 1.4 1.2 2.5 1.6 2.9 1.7.3.2.5.1.7-.1l1-1.2c.2-.3.4-.2.7-.1l2 .9c.3.2.5.3.6.4 0 .1 0 .7-.4 1.2z"/></svg><span>WhatsApp</span></a>
+<div id="toast" data-testid="toast"><span class="tk"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><div><b>Enquiry Received</b><span id="toast-msg">Thank you. Our team will reach out within 24 hours.</span></div></div>
+
+<script src="cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="cdn.jsdelivr.net/npm/lenis%401.1.18/dist/lenis.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="static/js/bundle.js"></script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a35bfee10ae04e78',t:'MTc4ODUxNDQzNw=='};var a=document.createElement('script');a.src='cdn-cgi/challenge-platform/h/g/scripts/jsd/330e41bb475c/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
